@@ -1,7 +1,7 @@
 let height = 8;
 let base = 10; 
 let width = 5;
-let length = 14;
+let length = 8;
 let traingleArea = height * base / 2;
 let rectangleArea = width * length;
 if (rectangleArea > traingleArea){
